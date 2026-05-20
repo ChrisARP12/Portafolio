@@ -1,0 +1,17 @@
+[
+    {
+        "titulo": "React Intensivo desde cero hasta avanzado",
+        "imagen": "UD_Certificado React Intensivo.jpg",
+        "pdf": "/certs/react.pdf"
+    },
+    {
+        "titulo": "JavaScript Intensivo",
+        "imagen": "Udemy_JavaScript.jpg",
+        "pdf": "/certs/js.pdf"
+    },
+    {
+        "titulo": "Curso de SEO y posicionamiento web",
+        "imagen": "Certificado Udemy SEO.jpg",
+        "pdf": "/certs/node.pdf"
+    }
+]

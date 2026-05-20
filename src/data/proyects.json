@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Ecommerce Dashboard",
+    "description": "Panel administrativo para gestionar productos, ventas y usuarios en tiempo real.",
+    "tech": ["React", "Node.js", "MongoDB"],
+    "image": "lapera.jpg",
+    "demo": "#",
+    "github": "#",
+    "featured": true,
+    "status": "Producción"
+  },
+  {
+    "id": 2,
+    "name": "Task Manager App",
+    "description": "Aplicación de gestión de tareas con autenticación y CRUD completo.",
+    "tech": ["React", "Express", "JWT"],
+    "image": "lapera.jpg",
+    "demo": "#",
+    "github": "#",
+    "featured": true,
+    "status": "En desarrollo"
+  },
+  {
+    "id": 3,
+    "name": "Portfolio Web",
+    "description": "Sitio personal optimizado para performance y SEO.",
+    "tech": ["React", "Styled Components"],
+    "image": "lapera.jpg",
+    "demo": "#",
+    "github": "#",
+    "featured": true,
+    "status": "Producción"
+  },
+  {
+    "id": 4,
+    "name": "API REST Users",
+    "description": "API para gestión de usuarios con autenticación.",
+    "tech": ["Node.js", "Express"],
+    "image": "lapera.jpg",
+    "demo": "#",
+    "github": "#",
+    "featured": false,
+    "status": "Completado"
+  }
+]
