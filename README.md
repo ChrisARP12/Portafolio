@@ -1,16 +1,109 @@
-# React + Vite
+# Christopher Arturo Rajon Polanco Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portfolio personal desarrollado con React + Vite para mostrar mis proyectos, habilidades, certificaciones y experiencia como desarrollador frontend.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Preview
 
-## React Compiler
+<p align="center">
+  <img src="./preview.gif" alt="Preview Portfolio" />
+</p>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Tecnologías utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- Styled Components
+- JavaScript
+- Font Awesome
+- Responsive Design
+
+---
+
+## Características
+
+- Diseño moderno y responsive
+- Optimizado para dispositivos móviles
+- UI enfocada en experiencia de usuario
+- Sección dinámica de proyectos
+- Modal interactivo para certificados
+- Animaciones y transiciones suaves
+- Arquitectura modular con componentes reutilizables
+- Integración de iconografía profesional con Font Awesome
+
+---
+
+## Secciones del Portfolio
+
+- Header 
+- Sobre mí
+- Skills & Tecnologías
+- Proyectos destacados
+- Certificaciones y logros
+- Contacto profesional
+- Footer moderno
+
+---
+
+## Instalación
+
+Clona el repositorio:
+
+```bash
+git clone https://github.com/ChrisARP12/Portafolio.git
+```
+
+Instala las dependencias:
+
+```bash
+npm install
+```
+
+Inicia el servidor de desarrollo:
+
+```bash
+npm run dev
+```
+
+---
+
+## Build de producción
+
+```bash
+npm run build
+```
+
+---
+
+## Demo
+
+Próximamente desplegado.
+
+---
+
+## Objetivo del proyecto
+
+Este portfolio fue desarrollado con el objetivo de mostrar mis habilidades como desarrollador frontend, mi enfoque en diseño UI/UX y mi capacidad para construir aplicaciones modernas utilizando tecnologías actuales.
+
+---
+
+## Autor
+
+### Christopher Arturo Rajón Polanco
+
+- GitHub:
+  https://github.com/ChrisARP12
+
+- LinkedIn:
+  https://www.linkedin.com/in/carp-755775236/
+
+---
+
+## Licencia
+
+Este proyecto es únicamente para fines de visualización personal y profesional.
+
+No está permitido reutilizar o redistribuir el diseño completo sin autorización.
